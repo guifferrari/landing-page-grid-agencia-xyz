@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Gif
 
-[<img src="./src/images/gif-agencia-grid-xyz.gif" alt="gif da tela inicial do projeto agencia xyz, em duas resoluções.">](https://github.com/guifferrari/landing-page-grid-agencia-xyz)
+[<img src="./src/images/gif-agencia-grid-xyz.gif" alt="gif da tela inicial do projeto agencia xyz, em duas resoluções.">](https://guifferrari.github.io/landing-page-grid-agencia-xyz/)
 
 # Click the icon at the top right corner of the gif to check the project's github page
 
